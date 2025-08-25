@@ -20,6 +20,8 @@ RegistryGuard Pro هو نظام مراقبة متقدم مفتوح المصدر 
 ---
 
 
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (18)" src="https://github.com/user-attachments/assets/bc11b50d-1d45-4fdc-9d65-bdbe031ec4a7" />![IMG-20250823-WA0001](https://github.com/user-attachments/assets/40d83e96-20a9-4b75-a38b-4b6996ae1990)
+
 
 
 ![‏‏لقطة الشاشة (266)](https://github.com/user-attachments/assets/b0117074-4d11-47b2-88df-3a09363f43b9)
